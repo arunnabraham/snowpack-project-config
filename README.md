@@ -1,2 +1,2 @@
-# snowpack-project-config
-Goto project config for frontenf Web
+# Snowpack Project Config
+Goto project config for frontend Web
